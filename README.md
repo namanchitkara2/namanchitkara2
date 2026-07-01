@@ -20,7 +20,8 @@
 ## 🚀 About me
 
 - 🛠️ **Lead Engineer (GTM & MarTech)** at **HCLTech**, deployed to **GAP Inc.** — building MarTech automation and identity/data pipelines.
-- 🧩 Previously **Senior Technical Consultant at Adobe** (AEP / AJO / RT-CDP) and **founder of Grhamly**.
+- 🚀 **Founder — Grhamly** (Dec 2022 – Nov 2023) — built and ran my own startup end-to-end: product, tech, and go-to-market.
+- 🧩 Ex-**Adobe** — **Senior Technical Consultant** (AEP / AJO / RT-CDP).
 - 🎓 **B.Tech, Computer Science** — SRM Institute of Science and Technology.
 - ⚡ I like turning "we should automate this" into shipped systems: identity resolution, RevOps analytics, event tracking, full-funnel orchestration, and LLM/AI integrations.
 
